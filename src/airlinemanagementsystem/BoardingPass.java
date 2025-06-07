@@ -6,6 +6,7 @@ import java.awt.event.*;
 import java.sql.*;
 import java.util.*;
 
+// BoardingPass Class
 public class BoardingPass extends JFrame implements ActionListener{
     
     JTextField tfpnr;
